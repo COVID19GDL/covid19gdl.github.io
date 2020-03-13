@@ -3,10 +3,10 @@
 
 
 Cochrane Collaboration:
-https://www.cochranelibrary.com/es/collections/doi/SC000040/full
+[https://www.cochranelibrary.com/es/collections/doi/SC000040/full](https://www.cochranelibrary.com/es/collections/doi/SC000040/full)
 
 Evidence Aid:
-https://www.evidenceaid.org/coronavirus-resources/
+[https://www.evidenceaid.org/coronavirus-resources/](https://www.evidenceaid.org/coronavirus-resources/)
 
 UPTODATE:
-https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19
+[https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
