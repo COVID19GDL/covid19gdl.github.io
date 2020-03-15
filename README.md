@@ -10,3 +10,9 @@ Evidence Aid:
 
 UPTODATE:
 [https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
+
+
+
+## Visualizaciones
+
+[http://www.cidrap.umn.edu/covid-19/maps-visuals](http://www.cidrap.umn.edu/covid-19/maps-visuals)
