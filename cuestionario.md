@@ -25,7 +25,7 @@ Puedes consultar nuestro aviso de privacidad aquí: [Aviso de Privacidad](https:
 Se clasifican por severidad estratificada por puntajes:
 
 * Riesgo Bajo → Puntuación 0-3 : Medidas generales y cuidados en casa. 
-* Riesgo Intermedio 3→ Puntuación 4-6 : Aislamiento por 14 días y medidas generales, cuidados en casa. 
+* Riesgo Intermedio → Puntuación 4-6 : Aislamiento por 14 días y medidas generales, cuidados en casa. 
 * Riesgo Alto → Puntuación >7 : Necesidad de atención inmediata en servicios de salud
 
 ### Reto actual:
