@@ -6,7 +6,7 @@ Christian Mendoza Mujica, que ha designado el domicilio Coronel Calderón 777, E
 
 ### ¿De quiénes almacenamos datos personales? ###
 
-Sólo se almacenan los datos personales de quienes contestan el , por lo que el siguiente aviso de privacidad aplica únicamente para éstas personas. 
+Sólo se almacenan los datos personales de quienes contestan el cuestionario ¿Soy COVID-19?, por lo que el siguiente aviso de privacidad aplica únicamente para éstas personas. 
 
 
 ### ¿Para qué fines utilizaremos tus datos personales? ###
