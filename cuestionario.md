@@ -11,7 +11,9 @@ Actualmente esta herramienta utiliza Google Survey, con un cuestionario elaborad
 El acceso a la herramienta es el siguiente: [https://forms.gle/tPs9jPoc6qkhQbHu6](https://forms.gle/tPs9jPoc6qkhQbHu6)
 
 ### Métodos y privacidad
-La herramienta consta de 27 reactivos, colecta datos clínicos, demográficos, datos de contacto y ubicación geográfica, se utiliza como licencia de uso de los datos y la información provista a través de un consentimiento tácito, los datos son opcionales y quien los vierte en nuestro cuestionario esta accediendo a su recopilación, la información sera exclusiva para recibir orientación y no será utilizada con fines comerciales o ilegales.
+La herramienta consta de 27 reactivos, colecta datos clínicos, demográficos, datos de contacto y ubicación geográfica, la información vertida es opcional a excepción del email (es nuestro medio de contacto) y quien contesta nuestro cuestionario esta accediendo a su recopilación, la información será exclusiva para recibir orientación y no será utilizada con fines comerciales o ilegales.
+
+Puedes consultar nuestro aviso de privacidad aquí: [Aviso de Privacidad](https://covid19gdl.github.io/privacidad)
 
 Se clasifican por severidad estratificada por puntajes:
 
