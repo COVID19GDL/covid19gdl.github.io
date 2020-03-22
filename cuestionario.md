@@ -34,3 +34,6 @@ Queremos que este proyecto beneficie a la comunidad universitaria y la sociedad 
 Dr. Netzahualpilli Delgado Figueroa
 
 Coordinador Logístico del Proyecto
+
+
+![alt text](COVID_Callcenter_2.jpg)
