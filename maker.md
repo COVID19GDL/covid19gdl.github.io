@@ -3,7 +3,7 @@
 
 ![alt text](https://media.prusaprinters.org/thumbs/cover/640x480/media/prints/25857/images/260468_72bc89ab-9ac5-4de4-9078-ee9573ad35d6/main00_00_54_05still004.jpg)
 
-Archivos aqui: [https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2?fbclid=IwAR2efJ_hEfwOLca_McGwlZcuWlAZuJacyHHLYHMz_hLfFPHr6H6vGdCWwwE](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2?fbclid=IwAR2efJ_hEfwOLca_McGwlZcuWlAZuJacyHHLYHMz_hLfFPHr6H6vGdCWwwE)
+Archivos aqui: [https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2)
 
 Cuidados del Equipo y limpieza:
 
