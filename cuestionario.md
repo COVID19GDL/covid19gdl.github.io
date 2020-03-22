@@ -2,7 +2,7 @@
 
 ### Introducción
 
-El proyecto de atención ciudadana con orientación de la severidad de los síntomas por sospecha de infección por COVID-19 es un esfuerzo de universitarios, incluidos profesores y alumnos en la generación de una herramienta de atención y con el único objetivo de evitar que el sistema de salud colapse y sobrepase la situación que se vive alrededor del mundo.
+El proyecto de atención ciudadana con orientación de la severidad de los síntomas por sospecha de infección por COVID-19 es un esfuerzo de universitarios y médicos especialistas en la generación de una herramienta de atención y con el único objetivo de evitar que el sistema de salud colapse y sobrepase la situación que se vive alrededor del mundo.
 
 Actualmente esta herramienta utiliza Google Survey, con un cuestionario elaborado por el Residente de Infectologia del HCG FAA **Dr. Christian Mendoza Mujica**, esta iniciativa fue respaldada por una comunidad de estudiantes y profesores afines al proyecto.
 
