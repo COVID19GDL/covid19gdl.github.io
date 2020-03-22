@@ -2,7 +2,7 @@
 
 ### Introducción
 
-Este proyecto de atención ciudadana con orientación a la severidad de los síntomas, en caso de sospecha de infección por COVID-19. 
+Este es un proyecto de atención ciudadana con orientación a la detección de la severidad de los síntomas, en caso de sospecha de infección por COVID-19. 
 
 Es un esfuerzo de universitarios y médicos, especialistas en la generación de una herramienta de atención, con el único objetivo de evitar que nuestro sistema de salud colapse y sobrepase la situación que se vive a nivel mundial. 
 
@@ -17,7 +17,8 @@ El acceso a la herramienta es el siguiente: [https://forms.gle/tPs9jPoc6qkhQbHu6
 
 ### Métodos y privacidad
 
-La herramienta consta de un cuestionario con 27 reactivos en el cual, se colectan datos de contacto, incluyendo ubicación geográfica, datos clínicos, demográficos. La información vertida es opcional, a excepción del email (es nuestro medio de contacto).  Quien contesta nuestro cuestionario esta accediendo a su recopilación de datos, la información vertida en el mismo, será exclusiva para recibir orientación y no será utilizada con fines comerciales o ilegales.
+La herramienta consta de un cuestionario con 27 reactivos, en el cual, se colectan datos de contacto, incluyendo: ubicación geográfica, datos clínicos y demográficos. Quien contesta el cuestionario, está accediendo a la recopilación de datos. 
+La información vertida en el mismo, será exclusiva para recibir orientación y no será utilizada con fines comerciales, políticos o ilegales.
 
 Puedes consultar nuestro aviso de privacidad aquí: [Aviso de Privacidad](https://covid19gdl.github.io/privacidad)
 
