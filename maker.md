@@ -1,4 +1,4 @@
-# Mascara protectora facial por PRUSA #
+# Mascara protectora facial por PRUSA
 
 
 ![alt text](https://media.prusaprinters.org/thumbs/cover/640x480/media/prints/25857/images/260468_72bc89ab-9ac5-4de4-9078-ee9573ad35d6/main00_00_54_05still004.jpg)
