@@ -17,8 +17,8 @@ El acceso a la herramienta es el siguiente: [https://forms.gle/tPs9jPoc6qkhQbHu6
 
 ### Métodos y privacidad
 
-La herramienta consta de un cuestionario con 27 reactivos, en el cual, se colectan datos de contacto, incluyendo: ubicación geográfica, datos clínicos y demográficos. Quien contesta el cuestionario, está accediendo a la recopilación de datos. 
-La información vertida en el mismo, será exclusiva para recibir orientación y no será utilizada con fines comerciales, políticos o ilegales.
+La herramienta consta de un cuestionario con 27 reactivos en el cual, se colectan datos de contacto, incluyendo ubicación geográfica, datos clínicos, demográficos. La información vertida es opcional, a excepción del email (es nuestro medio de contacto).  Quien contesta nuestro cuestionario esta accediendo a su recopilación de datos, la información vertida en el mismo, será exclusiva para recibir orientación y también será utilizada para analizar los datos y compartir esta información con autoridades sanitarias con el fin de brindar la mejor atención y los servicios requeridos en esta contingencia. No será utilizada con fines comerciales ni ilegales.
+
 
 Puedes consultar nuestro aviso de privacidad aquí: [Aviso de Privacidad](https://covid19gdl.github.io/privacidad)
 
