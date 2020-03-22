@@ -1,4 +1,4 @@
-## Cuestionario ¿Soy un COVID-19? por EQUIPO COVID-19 GDL
+## Cuestionario ¿Soy un caso de COVID-19? por EQUIPO COVID-19 GDL
 
 ### Introducción
 
