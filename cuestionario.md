@@ -7,7 +7,7 @@ Este es un proyecto de atención ciudadana con orientación a la detección de l
 Es un esfuerzo de universitarios y médicos, especialistas en la generación de una herramienta de atención, con el único objetivo de evitar que nuestro sistema de salud colapse y sobrepase la situación que se vive a nivel mundial. 
 
 Actualmente, esta herramienta utiliza Google Survey, con un cuestionario elaborado por el  **Dr. Christian Mendoza Mujica**, 
-Residente de Infectología del Hospital Civil de Guadalajara Fray Antonio Alcalde. 
+Residente de Infectología.
 
 Esta iniciativa fue respaldada por una comunidad de médicos, estudiantes y profesores afines al proyecto.
 
