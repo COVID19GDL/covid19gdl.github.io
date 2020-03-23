@@ -22,6 +22,7 @@
 * Fernando Rodríguez Ortega 
 * Francisco Esteban Jiménez Nuño
 * Gerardo López Díaz
+* Gerardo de Jesús Rodríguez Báez
 * Hugo Alberto Radillo Alba
 * Inés Irasema Covarrubias Castillo
 * Irving Rafael Acuña Mayorga :dog:
