@@ -52,7 +52,7 @@
 * Nayeli González Pérez
 * Nereida Gaxiola Jurado
 * Nestor Daniel Ocaranza Nuñez
-* Netzahualpilli Delgado Figueroa
+* Netzahualpilli Delgado Figueroa :fist:
 * Odett Guadalupe López Hernández
 * Roberto A. Ruiz Velasco Cisneros
 * Rodrigo Daniel De La Torre Rivas
