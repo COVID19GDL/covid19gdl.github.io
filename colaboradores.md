@@ -42,7 +42,7 @@
 * Manuel Alejandro Aguirre Muñoz 
 * Marcos Briseño Espinosa
 * María de Jesús Gómez Bautista
-* María Guadalupe Martínez Ruiz 
+* María Guadalupe Martínez Ruiz :hibiscus:
 * María José Meza González
 * Mariela Montoya Chávez
 * Maritere Arias Pereida
