@@ -30,9 +30,11 @@ Se clasifican por severidad estratificada por puntajes:
 
 ### Reto actual:
 
-Actualmente hemos contestado cerca de 6,000 solicitudes (21/03/2020).
+Actualmente hemos contestado cerca de 10,700 solicitudes (23/03/2020).
 
 Somos actualmente 150 voluntarios que estamos trabajando 24 horas por contestar estas solicitudes.
+
+## Nuestra sección de agradecimientos especiales a personas destacadas en el proyecto: [Colaboradores](https://covid19gdl.github.io/colaboradores)
 
 Queremos que este proyecto beneficie a la comunidad universitaria y la sociedad  de Jalisco.
 
