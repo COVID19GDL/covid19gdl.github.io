@@ -1,7 +1,7 @@
 # AVISO DE PRIVACIDAD
 
 
-Christian Mendoza Mujica, que ha designado el domicilio Coronel Calderón 777, El Retiro, 44280 Guadalajara, Jalisco para oír y recibir notificaciones, es el responsable del uso y protección de tus datos personales, y al respecto te informamos lo siguiente:
+Christian Mendoza Mujica, que ha designado el domicilio Manzano Briseño 190 A, Atemajac del Valle, Zapopan, Jalisco, para oír y recibir notificaciones, es el responsable del uso y protección de tus datos personales, y al respecto te informamos lo siguiente:
 
 
 ### ¿De quiénes almacenamos datos personales? ###
