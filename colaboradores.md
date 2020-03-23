@@ -18,6 +18,7 @@
 * Eduardo Samuel Navarro González
 * Edwin Steve Gibson Escobar
 * Emilio Sebastian Salas Arellano 
+* Elizabeth Plascencia Villegas
 * Ernesto Jenaro Néstor Quiroz
 * Fernando Rodríguez Ortega 
 * Francisco Esteban Jiménez Nuño
