@@ -12,7 +12,7 @@
 * Cecilia Gabriela Márquez Sánchez
 * Célida Villegas Bonilla
 * César Emanuel Chávez Fregoso
-* Christian Mendoza Mujica :cactus:
+* Christian Mendoza Mujica 
 * Daniela Jaqueline Perales Salcedo
 * Diana Laura De La Torre Torres
 * Eduardo Samuel Navarro González
@@ -25,18 +25,18 @@
 * Gerardo de Jesús Rodríguez Báez
 * Hugo Alberto Radillo Alba
 * Inés Irasema Covarrubias Castillo
-* Irving Rafael Acuña Mayorga :dog:
+* Irving Rafael Acuña Mayorga 
 * Jarumi Andrea Tanaka Gutiérrez 
 * Jesús Eduardo Yeo Reyes 
 * Jesús García Placencia
 * Jorge Arturo Hurtado Martínez
-* Jorge Hugo Salado Rentería :smile:
-* José Gerardo Mora Almanza :rocket:
+* Jorge Hugo Salado Rentería
+* José Gerardo Mora Almanza
 * José Said Cabrera Aguilar
 * Juan Ignacio Vázquez Díaz 
 * Juan Manuel Díaz Castillón
 * Karen Denisse Gómez-Ávila
-* Karen Lizeth Hernández Jaime :cherry_blossom:
+* Karen Lizeth Hernández Jaime
 * Laura Georgina Bernal Guzmán
 * Leonardo Perales Guerrero
 * Manuel Alejandro Aguirre Muñoz 
@@ -48,12 +48,12 @@
 * Maritere Arias Pereida
 * Marlon Fernando Alfaro Villarruel
 * Mayra Beatriz Gómez Bernal
-* Miguel Ángel Sosa González :imp:
+* Miguel Ángel Sosa González
 * Nadia Stephani Acevedo Juárez 
 * Nayeli González Pérez
 * Nereida Gaxiola Jurado
 * Nestor Daniel Ocaranza Nuñez
-* Netzahualpilli Delgado Figueroa :fist:
+* Netzahualpilli Delgado Figueroa
 * Odett Guadalupe López Hernández
 * Roberto A. Ruiz Velasco Cisneros
 * Rodrigo Daniel De La Torre Rivas
@@ -68,7 +68,7 @@
 * Sofía De la Paz Estrada
 * Tonatiuh Delgado Figueroa
 * Ulises Ivan Martinez Tolentino
-* Valeria Elizabeth Ruiz Santana :green_heart:
+* Valeria Elizabeth Ruiz Santana
 * Viridiana Hernández Trujillo
 
 
