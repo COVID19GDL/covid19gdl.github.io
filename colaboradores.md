@@ -1,4 +1,4 @@
-# Colaboradores
+# Colaboradores Voluntarios
 
 * Adrián Soto Quirarte 
 * Aida Estefanía Pelayo Ruiz
