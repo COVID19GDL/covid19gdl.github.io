@@ -8,11 +8,13 @@
 * Aníbal Núñez Zárate 
 * Axel Fernando Flores Peña 
 * Barbara Vizmanos Lamotte
+* Carla Luciana Quirarte Barbosa
 * Carlos Antonio Davizon López
 * Cecilia Gabriela Márquez Sánchez
 * Célida Villegas Bonilla
 * César Emanuel Chávez Fregoso
 * Christian Mendoza Mujica 
+* Daniel Rigoberto Carmona Morones
 * Daniela Jaqueline Perales Salcedo
 * Diana Laura De La Torre Torres
 * Eduardo Samuel Navarro González
@@ -22,8 +24,10 @@
 * Ernesto Jenaro Néstor Quiroz
 * Fernando Rodríguez Ortega 
 * Francisco Esteban Jiménez Nuño
+* Frida Lucia Padilla Veliz
 * Gerardo López Díaz
 * Gerardo de Jesús Rodríguez Báez
+* Giovanna Lizbeth Ruvalcaba Gonzalez
 * Hugo Alberto Radillo Alba
 * Inés Irasema Covarrubias Castillo
 * Irving Rafael Acuña Mayorga 
@@ -43,7 +47,7 @@
 * Manuel Alejandro Aguirre Muñoz 
 * Marcos Briseño Espinosa
 * María de Jesús Gómez Bautista
-* María Guadalupe Martínez Ruiz :hibiscus:
+* María Guadalupe Martínez Ruiz
 * María José Meza González
 * Mariela Montoya Chávez
 * Maritere Arias Pereida
@@ -56,6 +60,8 @@
 * Nestor Daniel Ocaranza Nuñez
 * Netzahualpilli Delgado Figueroa
 * Nora Meléndez Andrade
+* Luis Fernando González Mendoza
+* Luis Alberto Acevedo Arreola
 * Odett Guadalupe López Hernández
 * Paulina de Jesús López Barajas
 * Roberto A. Ruiz Velasco Cisneros
