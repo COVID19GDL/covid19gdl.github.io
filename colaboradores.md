@@ -55,7 +55,9 @@
 * Nereida Gaxiola Jurado
 * Nestor Daniel Ocaranza Nuñez
 * Netzahualpilli Delgado Figueroa
+* Nora Meléndez Andrade
 * Odett Guadalupe López Hernández
+* Paulina de Jesús López Barajas
 * Roberto A. Ruiz Velasco Cisneros
 * Rodrigo Daniel De La Torre Rivas
 * Rubén Cervantes Villaseñor
@@ -67,6 +69,7 @@
 * Sharon Elizabeth Valencia González
 * Sinai Moises Peña Valdes 
 * Sofía De la Paz Estrada
+* Sofía Guadalupe Villanueva Sanchez
 * Tonatiuh Delgado Figueroa
 * Ulises Ivan Martinez Tolentino
 * Valeria Elizabeth Ruiz Santana
