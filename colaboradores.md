@@ -14,6 +14,7 @@
 * Célida Villegas Bonilla
 * César Emanuel Chávez Fregoso
 * Christian Mendoza Mujica 
+* Dana Michelle Pimienta Robles
 * Daniel Rigoberto Carmona Morones
 * Daniela Jaqueline Perales Salcedo
 * Diana Laura De La Torre Torres
@@ -24,11 +25,13 @@
 * Ernesto Jenaro Néstor Quiroz
 * Fernando Rodríguez Ortega 
 * Francisco Esteban Jiménez Nuño
+* Francisco Javier Ramos Buenrostro
 * Frida Lucia Padilla Veliz
 * Gerardo López Díaz
 * Gerardo de Jesús Rodríguez Báez
 * Giovanna Lizbeth Ruvalcaba Gonzalez
 * Hugo Alberto Radillo Alba
+* Kevin Geovanni Padilla Becerra
 * Inés Irasema Covarrubias Castillo
 * Irving Rafael Acuña Mayorga 
 * Jarumi Andrea Tanaka Gutiérrez 
@@ -64,6 +67,7 @@
 * Luis Alberto Acevedo Arreola
 * Odett Guadalupe López Hernández
 * Paulina de Jesús López Barajas
+* Paulina Nieto Villaseñor
 * Roberto A. Ruiz Velasco Cisneros
 * Rodrigo Daniel De La Torre Rivas
 * Rubén Cervantes Villaseñor
@@ -73,6 +77,7 @@
 * Sara Adriana Morán Maldonado
 * Sergio J. Sánchez Villaseca
 * Sharon Elizabeth Valencia González
+* Stephany Leticia Flores Velazquez
 * Sinai Moises Peña Valdes 
 * Sofía De la Paz Estrada
 * Sofía Guadalupe Villanueva Sanchez
