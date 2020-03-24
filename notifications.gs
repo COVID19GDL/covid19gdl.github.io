@@ -9,7 +9,7 @@ dónde se agrega un nuevo activador para la función onFormSubmit cuando se env�
 Descripción general del código:
 
 - sendSms: Función que implementa el API de Twilio para enviar un sms.
-- sendEmailGoogle (deprecado): Función que implementa el API nativa de gmail para enviar correos electrónicos
+- sendEmailGoogle (no implementado): Función que implementa el API nativa de gmail para enviar correos electrónicos
   (requiere permisos de la cuenta del autor para envío de correos electrónicos).
 - sendEmailSendgrid: Función que implementa el API de Sendgrid para enviar correos electrónicos.
 - onFormSubmit: Función que atrapa el registro insertado y envía una notificación de acuerdo a las reglas de clasificación de
