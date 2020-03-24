@@ -47,7 +47,7 @@ function sendSms(recipient, name, risk_type) {
   var payload = {
     "To": "+52" + recipient,
     "Body" : body,
-    "From" : "+13233750937"
+    "From" : "<TWILIO-CELLPHONE>"
   };
 
   var options = {
