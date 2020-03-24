@@ -1,8 +1,14 @@
 # Información para público en general y profesionales de la salud
 
 
+
 ## Utiliza nuestro cuestionario para orientacion las 24 horas
+
+
+
 # ¿Soy un caso de COVID-19?: [CUESTIONARIO ACCESO](htttps://covid19gdl.github.io/cuestionario)
+
+
 
 
 ## Recursos
