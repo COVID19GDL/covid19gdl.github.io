@@ -1,3 +1,17 @@
+/*Éste código automatiza el envío de correos electrónicos y sms al usuario después de llenar el formulario (en google form).
+
+Para implementarlo es necesario en el spreedsheet de google agregar una secuencia de comandos (Herramientas -> Editor de secuencia de comandos) dónde se inserta el código. Posteriormente desde esa misma ventana hay que ir a la parte de Activadores (Editar -> Activadores de proyecto activo), donde se agrega un nuevo activador para la función onFormSubmit cuando se envíe el formulario.
+
+Descripción general del código:
+
+- sendSms: Función que implementa el API de Twilio para enviar un sms.
+- sendEmailGoogle: Función que implementa el API nativa de gmail para enviar correos electrónicos (requiere permisos de la cuenta del autor para envío de correos electrónicos).
+- sendEmailSendgrid: Función que implementa el API de Sendgrid para enviar correos electrónicos.
+- onFormSubmit: Función que atrapa el registro insertado y envía una notificación de acuerdo a las reglas de clasificación de riesgo.
+
+Los correos electrónicos adjuntan un PDF el cual es descargado de google drive.
+*/
+
 var LOW_TEMPLATE_ID = "<GOOGLE-DRIVE-PDF-ID>"; 
 var INTERMEDIATE_TEMPLATE_ID = "<GOOGLE-DRIVE-PDF-ID>"; 
 var HIGH_TEMPLATE_ID = "<GOOGLE-DRIVE-PDF-ID>"; 
