@@ -20,6 +20,7 @@
 * Cecilia Gabriela Márquez Sánchez
 * Célida Villegas Bonilla
 * César Emanuel Chávez Fregoso
+* César Jerónimo Esquinca
 * Christian Mendoza Mujica 
 * Dana Michelle Pimienta Robles
 * Daniel Rigoberto Carmona Morones
@@ -38,6 +39,7 @@
 * Gerardo de Jesús Rodríguez Báez
 * Giovanna Lizbeth Ruvalcaba Gonzalez
 * Gilberto Adolfo Rocha Díaz
+* Gustavo Ervet Arias Quiñones
 * Hugo Alberto Radillo Alba
 * Karen Monserrat Ramos Fajardo
 * Karla Cecilia Cornelio Freer
