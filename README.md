@@ -7,7 +7,9 @@
 
 
 # ¿Soy un caso de COVID-19?: 
-[CUESTIONARIO ACCESO](htttps://covid19gdl.org/cuestionario)
+
+
+## ACCESO AL CUESTIONARIO [https://covid19gdl.org/cuestionario](https://covid19gdl.org/cuestionario)
 
 
 
