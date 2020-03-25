@@ -13,7 +13,7 @@ Esta iniciativa fue respaldada por una comunidad de médicos, estudiantes y prof
 
 ### Acceso al test:
 
-El acceso a la herramienta es el siguiente: [https://forms.gle/tPs9jPoc6qkhQbHu6](https://forms.gle/tPs9jPoc6qkhQbHu6)
+El acceso a la herramienta es el siguiente: [https://forms.gle/CwWpAdthrMmQNL2L6](https://forms.gle/CwWpAdthrMmQNL2L6)
 
 ### Métodos y privacidad
 
