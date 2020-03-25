@@ -6,7 +6,8 @@
 
 
 
-# ¿Soy un caso de COVID-19?: [CUESTIONARIO ACCESO](htttps://covid19gdl.github.io/cuestionario)
+# ¿Soy un caso de COVID-19?: 
+[CUESTIONARIO ACCESO](htttps://covid19gdl.org/cuestionario)
 
 
 
