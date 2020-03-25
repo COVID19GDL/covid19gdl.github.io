@@ -24,13 +24,13 @@ Puedes consultar nuestro aviso de privacidad aquí: [Aviso de Privacidad](https:
 
 Se clasifican por severidad estratificada por puntajes:
 
-* Riesgo Bajo → Puntuación 0-3 : Medidas generales y cuidados en casa. 
-* Riesgo Intermedio → Puntuación 4-6 : Aislamiento por 14 días y medidas generales, cuidados en casa. 
-* Riesgo Alto → Puntuación >7 : Necesidad de atención inmediata en servicios de salud
+* Riesgo Bajo → Puntuación 0-5: Medidas generales y cuidados en casa. 
+* Riesgo Intermedio → Puntuación 6-10 : Aislamiento por 14 días y medidas generales, cuidados en casa. 
+* Riesgo Alto → Puntuación ≥11: Necesidad de atención inmediata en servicios de salud
 
 ### Reto actual:
 
-Actualmente hemos contestado cerca de 10,700 solicitudes (23/03/2020).
+Actualmente hemos contestado cerca 16,000 de solicitudes (25/03/2020).
 
 Somos actualmente 150 voluntarios que estamos trabajando 24 horas por contestar estas solicitudes.
 
