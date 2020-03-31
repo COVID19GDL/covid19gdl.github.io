@@ -111,4 +111,3 @@
 ## ¡Gracias a tod@s!
 
 
-©️ 2020 Christian Mendoza Mujica,  Todos los derechos reservados
