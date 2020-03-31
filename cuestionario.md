@@ -39,14 +39,12 @@ Somos actualmente 150 voluntarios que estamos trabajando 24 horas por contestar 
 Queremos que este proyecto beneficie a la comunidad universitaria y la sociedad  de Jalisco.
 
 
+**Dr. Netzahualpilli Delgado Figueroa*
+*Coordinador Logístico del Proyecto*
 
 ### Gracias
 
-*Dr. Netzahualpilli Delgado Figueroa*
-
-*Coordinador Logístico del Proyecto*
 
 
 ![alt text](COVID_Callcenter_2.jpg)
 
-©️ 2020 Christian Mendoza Mujica,  Todos los derechos reservados
