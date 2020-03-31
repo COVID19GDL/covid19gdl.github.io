@@ -33,6 +33,3 @@ UPTODATE: [https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19](
 
 
 ## [COLABORADORES VOLUNTARIOS](https://covid19gdl.github.io/colaboradores)
-
-
-©️ 2020 Christian Mendoza Mujica,  Todos los derechos reservados
