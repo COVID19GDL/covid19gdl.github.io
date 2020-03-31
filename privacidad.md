@@ -41,7 +41,5 @@ Puedes revocar el consentimiento para el tratamiento de tus datos personales. en
 Cualquier cambio sustancial o total que se realice al presente aviso de privacidad de conformidad con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares será comunicado en este sitio web.
 
 
-©️ 2020 Christian Mendoza Mujica,  Todos los derechos reservados.
-
 
 Última actualización [27/03/2020].
