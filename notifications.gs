@@ -223,6 +223,7 @@ function onFormSubmit(e) {
     Logger.log(err);
     status = "Error en el envío automático";
   }
+  //pending task: try e.range.getRow() instead of getLastRow()
   sheet.getRange(sheet.getLastRow(), 31).setValue(status);
   sheet.getRange(sheet.getLastRow(), 1, 1, 31).setBackground(color);
 }
