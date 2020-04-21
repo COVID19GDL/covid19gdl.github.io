@@ -1,5 +1,7 @@
 ## Cuestionario ¿Soy un caso de COVID-19? por RUTA COVID
 
+![alt text](rutacovid_logo.jpeg)
+
 ### Introducción
 
 Este es un proyecto de atención ciudadana con orientación a la detección de la severidad de los síntomas, en caso de sospecha de infección por COVID-19. 
