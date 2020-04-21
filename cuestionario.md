@@ -1,4 +1,4 @@
-## Cuestionario ¿Soy un caso de COVID-19? por EQUIPO COVID-19 GDL
+## Cuestionario ¿Soy un caso de COVID-19? por RUTA COVID
 
 ### Introducción
 
@@ -30,7 +30,7 @@ Se clasifican por severidad estratificada por puntajes:
 
 ### Reto actual:
 
-Actualmente hemos contestado cerca 16,000 de solicitudes (25/03/2020).
+Actualmente hemos contestado cerca 22,000 de solicitudes (20/04/2020).
 
 Somos actualmente 150 voluntarios que estamos trabajando 24 horas por contestar estas solicitudes.
 
