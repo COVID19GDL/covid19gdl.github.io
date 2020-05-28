@@ -16,7 +16,7 @@
 
 ## Recursos
 
-COVID-19 Emergencias: [https://covid.emergencias.org.mx](https://covid.emergencias.org.mx)
+COVID-19 Emergencias: [https://covid19.emergencias.org.mx](https://covid19.emergencias.org.mx)
 
 EPISTEMONIKOS FOUNDATION: [https://www.epistemonikos.cl/all-about-covid-19/](https://www.epistemonikos.cl/all-about-covid-19/)
 
